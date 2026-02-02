@@ -1,6 +1,6 @@
 # MemoryStack Plugin for OpenClaw
 
-<img src="images/memorystackopenclaw.png" height="300" alt="OpenClaw x MemoryStack" />
+<img src="images/memorystackopenclaw.png" height="300" width="1200" alt="OpenClaw x MemoryStack" />
 
 Long-term memory for OpenClaw agents. Automatically remembers conversations, recalls relevant context, and builds a persistent user profile — all powered by [MemoryStack](https://memorystack.app).
 
