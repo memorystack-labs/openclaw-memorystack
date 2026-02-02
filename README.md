@@ -1,8 +1,10 @@
 # MemoryStack Plugin for OpenClaw
 
+![OpenClaw x MemoryStack](images/memorystackopenclaw.png)
+
 Long-term memory for OpenClaw agents. Automatically remembers conversations, recalls relevant context, and builds a persistent user profile — all powered by [MemoryStack](https://memorystack.app).
 
-> **✨ Requires a MemoryStack Account** - Get your API key at [memorystack.app](https://memorystack.app).
+> ** Requires a MemoryStack Account** - Get your API key at [memorystack.app/dashboard](https://memorystack.app/dashboard).
 
 ## Install
 
