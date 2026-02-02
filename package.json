@@ -1,0 +1,40 @@
+{
+    "name": "@memorystack/openclaw-memorystack",
+    "version": "1.0.1",
+    "type": "module",
+    "description": "OpenClaw MemoryStack memory plugin - long-term memory for your AI assistant",
+    "license": "MIT",
+    "author": "MemoryStack <support@memorystack.app>",
+    "homepage": "https://memorystack.app",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/memorystack-labs/memorystack"
+    },
+    "keywords": [
+        "openclaw",
+        "clawdbot",
+        "moltbot",
+        "memory",
+        "memorystack",
+        "ai",
+        "long-term-memory"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "dependencies": {
+        "@memorystack/sdk": "^1.0.4",
+        "@sinclair/typebox": "0.34.47"
+    },
+    "peerDependencies": {
+        "openclaw": ">=2026.1.29"
+    },
+    "openclaw": {
+        "extensions": [
+            "./index.ts"
+        ]
+    },
+    "devDependencies": {
+        "typescript": "^5.9.3"
+    }
+}
